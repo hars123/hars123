@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshit Shukla</h1>
 <h3 align="center">A passionate Software Developer form India</h3>
 
-- 🔭I'm currently Studying Computer Application [TechEduca](https://hars123.github.io/TechEduca/)
+- 🔭I'm currently Studying Computer Application from ABES Ghaziabad, Uttar Pradesh,India
 
 - 💬 Ask me about **React and Java DSA**
 
