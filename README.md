@@ -3,7 +3,7 @@
 
 - 🔭I'm currently Studying Computer Application [TechEduca](https://hars123.github.io/TechEduca/)
 
-- 💬 Ask me about **React Java DSA**
+- 💬 Ask me about **React and Java DSA**
 
 - 📫 How to reach me **harshitshukla4513@gmail.com**
 
