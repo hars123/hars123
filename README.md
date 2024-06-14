@@ -4,7 +4,7 @@
 
 
 ## 🌐 Socials:
- linkedin : www.linkedin.com/in/harshit-shukla-64306a232
+ linkedin : www.linkedin.com/in/harshit-shukla-64306a232 /n
  leetcode : https://leetcode.com/u/Techharshit/
 
 # 💻 Tech Stack:
