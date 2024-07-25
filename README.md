@@ -16,7 +16,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hars123&theme=dark&hide_border=true)<br/>
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Techharshit?theme=dark)<br />
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username={Techharshit}&theme={black}" alt="LeetCode Badges"/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hars123&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
