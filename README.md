@@ -1,4 +1,5 @@
-<B>🧑‍🎓I'm Harshit Shukla </B>
+<b>🧑‍🎓I'm Harshit Shukla </b>
+
 
 
 # 💫 About Me:
