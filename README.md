@@ -20,5 +20,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hars123&icon=0&color=0)](https://visitcount.itsvg.in)
+<br>
+![Leetcode Stats](https://leetcard.jacoblin.cool/Harshit1231?ext=contest)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
