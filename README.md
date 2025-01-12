@@ -19,6 +19,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hars123&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://leetcard.jacoblin.cool/Harshit1231?border=0&radius=20) <br>
+< br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hars123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
